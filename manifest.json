@@ -8,7 +8,7 @@
       "type": "image/x-icon"
     }
   ],
-  "main": "index.js",
+  "homepage": "https://fazaadiguno.github.io/LagoMockUp.github.io",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
